@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilePars", "FilePars\FilePars.csproj", "{546129BA-8AB1-4F70-9121-E14B95556F10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{546129BA-8AB1-4F70-9121-E14B95556F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{546129BA-8AB1-4F70-9121-E14B95556F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{546129BA-8AB1-4F70-9121-E14B95556F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{546129BA-8AB1-4F70-9121-E14B95556F10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57E1E534-9C5D-4B51-98EA-8E03C3722842}
+	EndGlobalSection
+EndGlobal
